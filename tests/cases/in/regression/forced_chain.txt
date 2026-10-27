@@ -1,0 +1,6 @@
+# x1 forces x2, x3, x4; x5 is free: two assignments.
+p 3sat 5 4
+1 1 1
+-1 2 2
+-2 3 3
+-3 4 4

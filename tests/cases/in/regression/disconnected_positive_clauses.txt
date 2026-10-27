@@ -1,0 +1,4 @@
+# Two independent positive clauses: 7*7=49.
+p 3sat 6 2
+1 2 3
+4 5 6

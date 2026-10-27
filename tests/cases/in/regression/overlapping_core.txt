@@ -1,0 +1,4 @@
+# (x1 OR x2) true: 3*4 choices; false: x3=x4=1, one choice.
+p 3sat 4 2
+1 2 3
+1 2 4

@@ -1,0 +1,6 @@
+# Fixed expected answers; no reference solver is run.
+p 3sat 2 4
+1 2 2
+1 -2 -2
+-1 2 2
+-1 -2 -2

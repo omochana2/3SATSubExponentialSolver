@@ -1,0 +1,9 @@
+# All assignments except 000 are forbidden, one per clause.
+p 3sat 3 7
+1 2 -3
+1 -2 3
+1 -2 -3
+-1 2 3
+-1 2 -3
+-1 -2 3
+-1 -2 -3

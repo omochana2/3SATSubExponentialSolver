@@ -1,0 +1,6 @@
+# Reduces to (x1 OR x2), with three unused variables: 3*8=24.
+p 3sat 5 4
+1 1 2
+2 1 1
+1 2 3
+-4 4 5
